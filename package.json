@@ -7,7 +7,7 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
-    "@liip/npm-icons": "^0.2.1",
+    "@liip/npm-icons": "^0.2.3",
     "vue": "^3.2.33"
   },
   "devDependencies": {

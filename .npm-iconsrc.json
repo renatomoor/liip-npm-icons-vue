@@ -2,5 +2,9 @@
   "iconsPath": "./src/assets/icons",
   "iconsSvgBaseUrl": "https://icons.liip.ch/icons",
   "iconsJsonUrl": "https://icons.liip.ch/icons.json",
-  "iconsTypes": ["regular", "light"]
+  "iconsTypes": ["regular", "light"],
+  "authorization": {
+    "username": null,
+    "password": null
+  }
 }
